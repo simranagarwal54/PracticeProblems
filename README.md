@@ -5,6 +5,8 @@ affecting the positions of the special characters. (reverseArraySpeacialChar.c)
 
 2. Given an array A[] and a number x, check for pair in A[] with sum as x. (sumOfPairs.c)
 
+3. Find maximum of minimum for every window size in a given array. (maxOfMin.c)
+
 
 
 
