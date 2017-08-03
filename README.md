@@ -7,6 +7,7 @@ affecting the positions of the special characters. (reverseArraySpeacialChar.c)
 
 3. Find maximum of minimum for every window size in a given array. (maxOfMin.c)
 
+4. Findind peak element in an array. Peak element is the one which is greater than both its neighbours.
 
 
 
