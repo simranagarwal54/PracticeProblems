@@ -16,3 +16,4 @@ Expected Time Complexity: O(log n)
 
 7. Kandane's Algorithm: Given an array containing both negative and positive integers. Find the contiguous sub-array with maximum sum.
 
+8. Traverse a 4x4 matrix of integers in spiral form. (SpiralTraverse.c)
