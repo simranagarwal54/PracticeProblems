@@ -14,3 +14,5 @@ affecting the positions of the special characters. (reverseArraySpeacialChar.c)
 6. A sorted array A[ ] with distinct elements is rotated at some unknown point, the task is to find the minimum element in it.
 Expected Time Complexity: O(log n)
 
+7. Kandane's Algorithm: Given an array containing both negative and positive integers. Find the contiguous sub-array with maximum sum.
+
