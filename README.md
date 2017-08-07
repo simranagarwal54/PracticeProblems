@@ -11,5 +11,6 @@ affecting the positions of the special characters. (reverseArraySpeacialChar.c)
 
 5. Given an odd number in the form of string, the task is to make largest even number possible from the given number provided one is allowed to do only one swap operation, if no such number is possible then print the input string itself. (OddToEven.c)
 
-
+6. A sorted array A[ ] with distinct elements is rotated at some unknown point, the task is to find the minimum element in it.
+Expected Time Complexity: O(log n)
 
